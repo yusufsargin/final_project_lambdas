@@ -37,7 +37,6 @@ export const handler = async (event) => {
     new ListObjectsV2Command({
       Prefix: "image_" + startTime.slice(0, -6),
       Bucket: BUCKET_NAME,
-      MaxKeys: 10,
     })
   );
 
