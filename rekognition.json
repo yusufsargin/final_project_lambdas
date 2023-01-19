@@ -1,0 +1,366 @@
+[
+  {
+    "M": {
+      "Instances": {
+        "L": []
+      },
+      "Confidence": {
+        "N": "99.9703369140625"
+      },
+      "Name": {
+        "S": "Head"
+      },
+      "Parents": {
+        "L": [
+          {
+            "M": {
+              "Name": {
+                "S": "Person"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "M": {
+      "Instances": {
+        "L": []
+      },
+      "Confidence": {
+        "N": "99.9703369140625"
+      },
+      "Name": {
+        "S": "Person"
+      },
+      "Parents": {
+        "L": []
+      }
+    }
+  },
+  {
+    "M": {
+      "Instances": {
+        "L": []
+      },
+      "Confidence": {
+        "N": "99.96554565429688"
+      },
+      "Name": {
+        "S": "Face"
+      },
+      "Parents": {
+        "L": [
+          {
+            "M": {
+              "Name": {
+                "S": "Head"
+              }
+            }
+          },
+          {
+            "M": {
+              "Name": {
+                "S": "Person"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "M": {
+      "Instances": {
+        "L": []
+      },
+      "Confidence": {
+        "N": "99.9554443359375"
+      },
+      "Name": {
+        "S": "Portrait"
+      },
+      "Parents": {
+        "L": [
+          {
+            "M": {
+              "Name": {
+                "S": "Face"
+              }
+            }
+          },
+          {
+            "M": {
+              "Name": {
+                "S": "Head"
+              }
+            }
+          },
+          {
+            "M": {
+              "Name": {
+                "S": "Person"
+              }
+            }
+          },
+          {
+            "M": {
+              "Name": {
+                "S": "Photography"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "M": {
+      "Instances": {
+        "L": []
+      },
+      "Confidence": {
+        "N": "99.9554443359375"
+      },
+      "Name": {
+        "S": "Photography"
+      },
+      "Parents": {
+        "L": []
+      }
+    }
+  },
+  {
+    "M": {
+      "Instances": {
+        "L": []
+      },
+      "Confidence": {
+        "N": "57.09068298339844"
+      },
+      "Name": {
+        "S": "Home Decor"
+      },
+      "Parents": {
+        "L": []
+      }
+    }
+  },
+  {
+    "M": {
+      "Instances": {
+        "L": []
+      },
+      "Confidence": {
+        "N": "57.057125091552734"
+      },
+      "Name": {
+        "S": "Black Hair"
+      },
+      "Parents": {
+        "L": [
+          {
+            "M": {
+              "Name": {
+                "S": "Hair"
+              }
+            }
+          },
+          {
+            "M": {
+              "Name": {
+                "S": "Person"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "M": {
+      "Instances": {
+        "L": []
+      },
+      "Confidence": {
+        "N": "57.057125091552734"
+      },
+      "Name": {
+        "S": "Hair"
+      },
+      "Parents": {
+        "L": [
+          {
+            "M": {
+              "Name": {
+                "S": "Person"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "M": {
+      "Instances": {
+        "L": []
+      },
+      "Confidence": {
+        "N": "56.9681396484375"
+      },
+      "Name": {
+        "S": "Selfie"
+      },
+      "Parents": {
+        "L": [
+          {
+            "M": {
+              "Name": {
+                "S": "Face"
+              }
+            }
+          },
+          {
+            "M": {
+              "Name": {
+                "S": "Head"
+              }
+            }
+          },
+          {
+            "M": {
+              "Name": {
+                "S": "Person"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "M": {
+      "Instances": {
+        "L": []
+      },
+      "Confidence": {
+        "N": "56.82258605957031"
+      },
+      "Name": {
+        "S": "Cushion"
+      },
+      "Parents": {
+        "L": [
+          {
+            "M": {
+              "Name": {
+                "S": "Home Decor"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "M": {
+      "Instances": {
+        "L": []
+      },
+      "Confidence": {
+        "N": "56.05534362792969"
+      },
+      "Name": {
+        "S": "Neck"
+      },
+      "Parents": {
+        "L": [
+          {
+            "M": {
+              "Name": {
+                "S": "Body Part"
+              }
+            }
+          },
+          {
+            "M": {
+              "Name": {
+                "S": "Face"
+              }
+            }
+          },
+          {
+            "M": {
+              "Name": {
+                "S": "Head"
+              }
+            }
+          },
+          {
+            "M": {
+              "Name": {
+                "S": "Person"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "M": {
+      "Instances": {
+        "L": []
+      },
+      "Confidence": {
+        "N": "56.05534362792969"
+      },
+      "Name": {
+        "S": "Body Part"
+      },
+      "Parents": {
+        "L": []
+      }
+    }
+  },
+  {
+    "M": {
+      "Instances": {
+        "L": []
+      },
+      "Confidence": {
+        "N": "55.59574508666992"
+      },
+      "Name": {
+        "S": "Beard"
+      },
+      "Parents": {
+        "L": [
+          {
+            "M": {
+              "Name": {
+                "S": "Face"
+              }
+            }
+          },
+          {
+            "M": {
+              "Name": {
+                "S": "Head"
+              }
+            }
+          },
+          {
+            "M": {
+              "Name": {
+                "S": "Person"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+]

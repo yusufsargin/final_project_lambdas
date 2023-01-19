@@ -1,0 +1,13 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Description: Final Process Deployment
+Resources:
+  AnalyseLambdaFunction:
+    Type: AWS::Lambda::Function
+    Properties:
+      Handler: index.handler
+      Role: arn:aws:iam::443174523927:role/LambdaAnalyseImage
+      Code:
+        S3Bucket: s3://app-function-codes/
+        S3Key: analyse-s3-images-cf.zip
+      Runtime: nodejs18.x
+      FunctionName: analyse-s3-images-cf
